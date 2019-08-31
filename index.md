@@ -1,6 +1,5 @@
-## Đội nghi thức nhà trường có 40 bạn, 1/2 số bạn nữ = 1/3 số bạn nam. Hỏi đội nghi thức nhà trường có bao nhiêu bạn nữ, bao nhiêu bạn nam?
-
-Phân tích:
+### Đội nghi thức nhà trường có 40 bạn, 1/2 số bạn nữ = 1/3 số bạn nam. Hỏi đội nghi thức nhà trường có bao nhiêu bạn nữ, bao nhiêu bạn nam?
+ Phân tích:
 
 Tổng: 40 bạn
 
@@ -14,10 +13,17 @@ Bạn nữ:
 				       40 bạn
 Bạn nam:
 		     ? bạn
+
 Theo sơ đồ, tổng số phần bằng nhau là:
-	2 + 3 = 5 (phần)
+	    2 + 3 = 5 (phần)
+
 Đội nghi thức nhà trường có số bạn nữ là:
-	(40 ÷ 5) × 2 = 16 (bạn)
+    	(40 ÷ 5) × 2 = 16 (bạn)
+
 Đội nghi thức nhà trường có số bạn nam là:
-	(40 ÷ 5) × 3 = 24 (bạn)
-		Đáp số: Nữ: 16 bạn  ;  Nam: 24 bạn
+
+```
+(40 ÷ 5) × 3 = 24 (bạn)
+```
+
+> Đáp số: Nữ: 16 bạn  ;  Nam: 24 bạn
