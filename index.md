@@ -7,6 +7,6 @@
 
 - [Cho một đoàn văn nghệ có 1/3 số nam bằng 1/5 số nữ. Biết số nam ít hơn số nữ 16 người. Tìm số nam và số nữ?](05/tong_ty_hieu_ty/4.md)
 
-- 
+- [Tìm số tự nhiên. Biết rằng khi ta thêm vào bên phải số đó 1 chữ số 0 thì ta được số mới và tổng của số mới và số cũ là 297.](05/tong_ty_hieu_ty/5.md)
 
 - [Đội tuyển học sinh giỏi khối 5 của 1 trường tiểu học là 16 học sinh. Biết 2/3 số nam nhiều hơn 1/2 số nữ là 1 bạn. Hỏi đội tuyển đó có bao nhiêu bạn nam và bạn nữ?](05/tong_ty_hieu_ty/6.md)
