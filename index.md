@@ -24,3 +24,5 @@
 - [Đội tuyển bóng đá mi-ni của huyện A tham dự hội khỏe Phù Đổng cấp tỉnh gồm các bạn học sinh lớp 4 và lớp 5. Dự định số bạn tham gia đội tuyển bóng đá đang học lớp 4 chiếm 1/5 của cả đội. Nhưng do một bạn đang học lớp 4 không tham gia được mà thay bởi một bạn đang học lớp 5, khi đó số bạn đang học lớp 4 tham gia chỉ bằng 1/10 số thành viên của cả đội. Tính tổng số thành viên của cả đôi bóng đá mi-ni?](05/tong_ty_hieu_ty/12.md)
 
 - [Một tủ sách có hai ngăn. Số sách ở ngăn dưới gấp 3 lần số sách ngăn trên. Nếu chuyển 10 quyển sách ở ngăn trên xuống ngăn dưới thì số sách ngăn dưới gấp 7 lần ngăn trên. Tính số sách mỗi ngăn.](05/tong_ty_hieu_ty/13.md)
+
+- [Một hình chữ nhật có chiều rộng bằng 2/5 chiều dài. Nếu thêm vào chiều rộng 4m và đồng thời bớt chiều dài 4m thì lúc đó chiều rộng bằng 2/3 chiều dài. Tính diện tích của hình chữ nhật đó.](05/tong_ty_hieu_ty/14.md)
