@@ -20,3 +20,5 @@
 - [Hai số có tổng là 1/4 và thương cũng là 1/4. Tìm 2 số đó.](05/tong_ty_hieu_ty/10.md)
 
 - [Bính và Đinh có hai thửa ruộng, tổng diện tích của hai thửa ruộng đó là 780m2. Nếu chuyển 1/6 diện tích ruộng của Bính sang cho Đinh thì diện tích của hai thửa sẽ bằng nhau. Tính diện tích của mỗi thửa ruộng bằng mét vuông.](05/tong_ty_hieu_ty/11.md)
+
+- [Đội tuyển bóng đá mi-ni của huyện A tham dự hội khỏe Phù Đổng cấp tỉnh gồm các bạn học sinh lớp 4 và lớp 5. Dự định số bạn tham gia đội tuyển bóng đá đang học lớp 4 chiếm 1/5 của cả đội. Nhưng do một bạn đang học lớp 4 không tham gia được mà thay bởi một bạn đang học lớp 5, khi đó số bạn đang học lớp 4 tham gia chỉ bằng 1/10 số thành viên của cả đội. Tính tổng số thành viên của cả đôi bóng đá mi-ni?](05/tong_ty_hieu_ty/12.md)
