@@ -28,3 +28,5 @@
 - [Một hình chữ nhật có chiều rộng bằng 2/5 chiều dài. Nếu thêm vào chiều rộng 4m và đồng thời bớt chiều dài 4m thì lúc đó chiều rộng bằng 2/3 chiều dài. Tính diện tích của hình chữ nhật đó.](05/tong_ty_hieu_ty/14.md)
 
 - [Cuối học kì I lớp 5A có số học sinh giỏi bằng 3/7 số học sinh còn lại của lớp. Cuối năm học sinh lớp 5A có thêm 4 học sinh giỏi nên tổng số học sinh giỏi bằng 2/3 số học sinh còn lại của lớp. Hỏi lớp 5A có bao nhiêu học sinh?](05/tong_ty_hieu_ty/15.md)
+
+- [Một cửa hàng nhập về một số xe máy. Người bán hàng lấy ra trưng bày để bán 1/8 số xe nhập về, số xe còn lại bỏ trong kho. Sau khi bán 3 chiếc xe ở quầy trưng bày thì người chủ quầy nhận thấy số xe ở trong kho nhiều gấp 10 lần số xe còn lại ở quầy trưng bày xe. Hỏi cửa hàng lúc đầu nhập về bao nhiêu chiếc xe máy?](05/tong_ty_hieu_ty/16.md)
