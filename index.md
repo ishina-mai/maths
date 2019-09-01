@@ -18,3 +18,5 @@
 - [Trung bình cộng của 3 số là 85. Nếu thêm 1 chữ số 0 vào bên phải số thứ hai thì được số thứ nhất, nếu gấp 4 lần số thứ hai thì được số thứ ba. Tìm 3 số đó.](05/tong_ty_hieu_ty/9.md)
 
 - [Hai số có tổng là 1/4 và thương cũng là 1/4. Tìm 2 số đó.](05/tong_ty_hieu_ty/10.md)
+
+- [Bính và Đinh có hai thửa ruộng, tổng diện tích của hai thửa ruộng đó là 780m2. Nếu chuyển 1/6 diện tích ruộng của Bính sang cho Đinh thì diện tích của hai thửa sẽ bằng nhau. Tính diện tích của mỗi thửa ruộng bằng mét vuông.](05/tong_ty_hieu_ty/11.md)
