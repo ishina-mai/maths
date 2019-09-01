@@ -14,3 +14,5 @@
 - [Tìm số tự nhiên. Biết rằng nếu ta thêm vào bên phải của số đó một chữ số 2 thì ta được số mới. Tổng của số mới và số cũ là 519.](05/tong_ty_hieu_ty/7.md)
 
 - [Tìm hai số có tổng là 107. Biết rằng nếu xoá đi chữ số 8 ở hàng đơn vị của số lớn ta được số bé.](05/tong_ty_hieu_ty/8.md)
+
+- [Trung bình cộng của 3 số là 85. Nếu thêm 1 chữ số 0 vào bên phải số thứ hai thì được số thứ nhất, nếu gấp 4 lần số thứ hai thì được số thứ ba. Tìm 3 số đó.](05/tong_ty_hieu_ty/9.md)
