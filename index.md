@@ -30,3 +30,5 @@
 - [Cuối học kì I lớp 5A có số học sinh giỏi bằng 3/7 số học sinh còn lại của lớp. Cuối năm học sinh lớp 5A có thêm 4 học sinh giỏi nên tổng số học sinh giỏi bằng 2/3 số học sinh còn lại của lớp. Hỏi lớp 5A có bao nhiêu học sinh?](05/tong_ty_hieu_ty/15.md)
 
 - [Một cửa hàng nhập về một số xe máy. Người bán hàng lấy ra trưng bày để bán 1/8 số xe nhập về, số xe còn lại bỏ trong kho. Sau khi bán 3 chiếc xe ở quầy trưng bày thì người chủ quầy nhận thấy số xe ở trong kho nhiều gấp 10 lần số xe còn lại ở quầy trưng bày xe. Hỏi cửa hàng lúc đầu nhập về bao nhiêu chiếc xe máy?](05/tong_ty_hieu_ty/16.md)
+
+- [Để chuẩn bị tham gia Hội khỏe Phù Đổng cấp tỉnh, huyện em đã thành lập đội tuyển tham dự trong đó số nữ bằng 2/3 số nam. Sau khi đội được bổ sung 20 nữ và 15 nam nên lúc này số nữ bằng 4/5 số nam. Tính xem đội tuyển của huyện tham gia Hội khỏe Phù đổng cấp tỉnh có tất cả bao nhiêu bận động viên tham gia?](05/tong_ty_hieu_ty/17.md)
