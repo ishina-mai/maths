@@ -26,3 +26,5 @@
 - [Một tủ sách có hai ngăn. Số sách ở ngăn dưới gấp 3 lần số sách ngăn trên. Nếu chuyển 10 quyển sách ở ngăn trên xuống ngăn dưới thì số sách ngăn dưới gấp 7 lần ngăn trên. Tính số sách mỗi ngăn.](05/tong_ty_hieu_ty/13.md)
 
 - [Một hình chữ nhật có chiều rộng bằng 2/5 chiều dài. Nếu thêm vào chiều rộng 4m và đồng thời bớt chiều dài 4m thì lúc đó chiều rộng bằng 2/3 chiều dài. Tính diện tích của hình chữ nhật đó.](05/tong_ty_hieu_ty/14.md)
+
+- [Cuối học kì I lớp 5A có số học sinh giỏi bằng 3/7 số học sinh còn lại của lớp. Cuối năm học sinh lớp 5A có thêm 4 học sinh giỏi nên tổng số học sinh giỏi bằng 2/3 số học sinh còn lại của lớp. Hỏi lớp 5A có bao nhiêu học sinh?](05/tong_ty_hieu_ty/15.md)
