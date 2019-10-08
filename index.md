@@ -33,6 +33,6 @@
 
 - [Để chuẩn bị tham gia Hội khỏe Phù Đổng cấp tỉnh, huyện em đã thành lập đội tuyển tham dự trong đó số nữ bằng 2/3 số nam. Sau khi đội được bổ sung 20 nữ và 15 nam nên lúc này số nữ bằng 4/5 số nam. Tính xem đội tuyển của huyện tham gia Hội khỏe Phù đổng cấp tỉnh có tất cả bao nhiêu bận động viên tham gia?](05/tong_ty_hieu_ty/17.md)
 
-- 
+- [An và Bình có 33 viên bi. Biết rằng 1/3 số bi của An bằng 2/5 số bi của Bình. Hỏi mỗi bạn có bao nhiêu viên bi?](05/tong_ty_hieu_ty/18.md)
 
 - [Ba bạn Hồng, Hoa Lan có tất cả 134 cái bưu ảnh. Biết rằng số bưu ảnh của Hoa nhiều hơn Hồng 14 chiếc song lại kém Lan 16 chiếc. Tính số bưu ảnh của mỗi bạn.](05/tong_ty_hieu_ty/19.md)
