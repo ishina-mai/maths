@@ -32,3 +32,7 @@
 - [Một cửa hàng nhập về một số xe máy. Người bán hàng lấy ra trưng bày để bán 1/8 số xe nhập về, số xe còn lại bỏ trong kho. Sau khi bán 3 chiếc xe ở quầy trưng bày thì người chủ quầy nhận thấy số xe ở trong kho nhiều gấp 10 lần số xe còn lại ở quầy trưng bày xe. Hỏi cửa hàng lúc đầu nhập về bao nhiêu chiếc xe máy?](05/tong_ty_hieu_ty/16.md)
 
 - [Để chuẩn bị tham gia Hội khỏe Phù Đổng cấp tỉnh, huyện em đã thành lập đội tuyển tham dự trong đó số nữ bằng 2/3 số nam. Sau khi đội được bổ sung 20 nữ và 15 nam nên lúc này số nữ bằng 4/5 số nam. Tính xem đội tuyển của huyện tham gia Hội khỏe Phù đổng cấp tỉnh có tất cả bao nhiêu bận động viên tham gia?](05/tong_ty_hieu_ty/17.md)
+
+- 
+
+- [Ba bạn Hồng, Hoa Lan có tất cả 134 cái bưu ảnh. Biết rằng số bưu ảnh của Hoa nhiều hơn Hồng 14 chiếc song lại kém Lan 16 chiếc. Tính số bưu ảnh của mỗi bạn.](05/tong_ty_hieu_ty/19.md)
